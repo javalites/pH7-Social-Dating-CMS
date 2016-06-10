@@ -4063,7 +4063,7 @@ msgid "Free Sign up for %site_name% to become friend with %0%."
 msgstr ""
 
 #: /var/www/html/pH7CMS/_protected/app/system/modules/user/controllers/ProfileController.php:106
-msgid "Meet %0%, A beautiful %1% looking some %2% - %3% years - %4% - %5% %6%"
+msgid "Meet %0%, A %1% looking for %2% - %3% years - %4% - %5% %6%"
 msgstr ""
 
 #: /var/www/html/pH7CMS/_protected/app/system/modules/user/controllers/ProfileController.php:108
